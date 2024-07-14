@@ -3,7 +3,7 @@
 
 Commercial banks receive numerous credit card applications daily. A significant number of these applications are rejected due to various reasons such as high loan balances, low income levels, or excessive inquiries on an individual's credit report. Manually analyzing these applications is not only mundane and error-prone but also time-consuming, and in the banking world, time is money.
 
-To streamline this process, banks leverage machine learning techniques to automate the evaluation of credit card applications. This project aims to build an automatic credit card approval predictor using machine learning, emulating the methods employed by real-world commercial banks.
+To streamline this process, banks leverage machine learning techniques to automate the evaluation of credit card applications. This project aims to build an automatic credit card approval predictor using machine learning.
 
 **Key Features:**
 
